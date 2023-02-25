@@ -1,0 +1,2178 @@
+@charset "utf-8";
+
+*{
+	margin:0px;
+	padding:0px;
+
+}
+body{
+	background-color:#000;
+	font-family:verdana;
+}
+.contenedor{
+	width:985px;
+	margin:00px auto;
+
+	
+	
+	
+	background-color:#002650;
+
+
+}
+
+.banner{
+	width:100%;
+	height:300px;
+}
+figure>img{
+	margin-top: 10px;
+	width:50px;
+	height:50px;
+}
+
+tr>td>img{
+	width:243.5px;
+	height:200px;
+	
+	
+}
+tr>td>a>b{
+	color:#0FA0DC;
+	font-size:15px;
+	text-decoration: none;
+}
+tr>td>a>b:hover{
+	color: #fff;
+}
+ a:link, a:visited, a:active {
+            text-decoration:none;
+        }
+tr>td>p{
+	font-size:14px;
+	color:#DCDADA;
+	padding:8px 50px
+}
+.imagen2{
+	width:240px;
+	height:250px;
+	display:block;
+margin:auto;
+}
+.imagen3{
+	width:370px;
+	height:500px;
+	
+}
+
+
+.imagen1{
+	width:40px;
+	height:40px;
+}
+footer{
+	width: 100%;
+	float: left;
+	background-color:#1ABC9C;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: center;
+
+}
+
+footer>p{
+	color:#000;
+	font-size:13px;
+	font-weight:bold;
+	text-decoration:none;
+	margin-top: 10px;
+}
+
+
+
+div>header>div>div>a>img{
+	width:115px;
+	height:65px;
+	margin-top:5px;
+}
+
+
+header{
+	width:100%;
+	background: #1ABC9C;
+	height:75px;
+
+}
+nav>ul{
+	word-spacing: 0.6em;
+}
+
+nav>ul>li{
+	display: inline;
+}
+nav>ul>li>a {
+	color:#000;
+	font-size:15px;
+	text-decoration: none;
+	
+	
+	font-weight: bold;
+	
+}
+nav>ul>li>a:hover{
+	color: #fff;
+}
+.logo{
+	
+    margin-left: 435px;
+    margin-right: 435px
+
+}
+header nav {
+	float:left;
+	margin-top: 30px;
+	margin-left:15px;
+}
+
+
+
+
+.contenedor2{
+	margin-top: 19px;
+	
+}
+.contenedor3{
+	margin-top: 25px;
+    border-collapse: collapse
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.bannerf {
+	width:100%;
+	height:500px;
+}
+
+.banneresp {
+	width:500px;
+	height:400px;
+	margin-bottom:35px;
+	margin-top:20px;
+}
+.contenido {
+	border:4px outset #323EAD;
+	margin:5px 20%;
+}
+
+.imgforo {
+	width:70px;
+	height:70px;
+}
+.contenedor4{
+	margin-left: 233px;
+
+}
+tr>td>b{
+	color:#0FA0DC;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.juego {
+	margin-top: 40px;
+	margin-bottom: 40px;
+	margin-left:40px;
+    text-decoration: underline;
+    color: #000;
+    font-weight: bold;
+    font-size: 37px;
+    font-family:medieval;
+
+}
+
+.link1{
+	width:220px;
+	height:255px;
+	margin-left:10px;
+
+	
+	
+}
+
+.text1 {
+	
+	background-color: #002650;
+	
+	width:40%;
+	
+	
+	
+}
+.margen {
+	color:#B25757;
+	font-size:2px;
+	font-weight:bold;
+	background-color: #002650;
+	margin:0px;
+	width:91%;
+	margin-left:2%;
+	
+	margin-bottom: 20px;
+	
+}
+.ban {
+	margin-left: 20px;
+
+	
+}
+.costo {
+	margin:5px;
+    right: 70%;
+}
+.info {
+	width:75%;
+	margin-left:12%;
+	text-align: center;
+}
+.historia {
+	margin-left: 125px;
+}
+.juego2{
+	margin-left:30px;
+	margin-right: 30px;
+	font-size: 12px;
+	padding-left:20px;
+}
+
+
+
+
+
+
+.nom {
+	color:   #fff;
+	font-size: 25px;
+	font-family:medieval;
+	text-align: center;
+
+}
+.wow1{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+   
+}
+
+.centrado1{
+    position: absolute;
+    top: 20%;
+    right: 70%;
+    font-size: 30px;
+    color:   #fff;
+    font-family:medieval;
+}
+.centrado2{
+    position: absolute;
+    top: 40%;
+    right: 40%;
+    font-size: 13px;
+    color: #D6EEF9;
+    font-family:bolditalic1;
+
+}
+.wowimg {
+	width: 100%;
+}
+.wow2 {
+	width: 145px;
+	height: 105px;
+	margin-top: 10px;
+
+	border-radius:50%;
+}
+.wow3 {
+    position: absolute;
+    top: 8%;
+    left: 44%;
+    font-size: 25px;
+    color: #000;
+    font-family:bolditalic1;
+    font-weight: bold;
+
+}
+.wow4 {
+    position: absolute;
+    top: 15%;
+    left: 2%;
+    font-size: 18px;
+    color: #000;
+    font-family:bolditalic1;
+    font-weight: bold;
+
+}
+.wow5 {
+    position: absolute;
+    top: 20%;
+    left: 2%;
+    right: 65%;
+    font-size: 16px;
+    color: #000;
+    font-family:bolditalic1;
+    font-weight: bold;
+
+}
+.wow6 {
+    position: absolute;
+    top: 15%;
+    left: 60%;
+    right: 2%;
+    font-size: 18px;
+    color: #000;
+    font-family:bolditalic1;
+    font-weight: bold;
+
+}
+.wow7 {
+    position: absolute;
+    top: 20%;
+    left: 60%;
+    right: 2%;
+    font-size: 16px;
+    color: #000;
+    font-family:bolditalic1;
+    font-weight: bold;
+
+}
+.wow8{
+    position: absolute;
+    top: 50%;
+    left: 2%;   
+    font-size: 22px;
+    color: #000;
+    font-family:bolditalic1;
+    font-weight: bold;
+
+}
+.wow9 {
+    position: absolute;
+    top: 55%;
+    left: 2%;
+}
+
+
+.wow10{
+    position: absolute;
+    top: 10%;
+    left: 40%;
+    font-size: 25px;
+    color: #890404;
+    font-family:bolditalic1;
+    font-weight: bold;
+
+}
+.wow11 {
+    position: absolute;
+    top: 15%;
+    left: 2%;
+    font-size: 18px;
+    color: #fff;
+    font-family:bolditalic1;
+    font-weight: bold;
+
+}
+.wow12 {
+    position: absolute;
+    top: 20%;
+    left: 2%;
+    right: 65%;
+    font-size: 16px;
+    color: #fff;
+    font-family:bolditalic1;
+    font-weight: bold;
+
+}
+.wow13 {
+    position: absolute;
+    top: 15%;
+    left: 60%;
+    right: 2%;
+    font-size: 18px;
+    color: #fff;
+    font-family:bolditalic1;
+    font-weight: bold;
+
+}
+.wow14 {
+    position: absolute;
+    top: 20%;
+    left: 60%;
+    right: 2%;
+    font-size: 16px;
+    color: #fff;
+    font-family:bolditalic1;
+    font-weight: bold;
+
+}
+.wow15{
+    position: absolute;
+    top: 55%;
+    right: 30%;   
+    font-size: 22px;
+    color: #890404;
+    font-family:bolditalic1;
+    font-weight: bold;
+
+}
+.wow16 {
+    position: absolute;
+    top: 61%;
+    right: 5%;
+}
+
+
+.wow17 {
+    position: absolute;
+    top: 8%;
+    left: 40%;
+    font-size: 27px;
+    color: #2E660B;
+    font-family:bolditalic1;
+    font-weight: bold;
+
+}
+.wow18 {
+    position: absolute;
+    top: 15%;
+    left: 2%;
+    font-size: 18px;
+    color: #fff;
+    font-family:bolditalic1;
+    font-weight: bold;
+
+}
+.wow19 {
+    position: absolute;
+    top: 20%;
+    left: 2%;
+    right: 65%;
+    font-size: 16px;
+    color: #fff;
+    font-family:bolditalic1;
+    font-weight: bold;
+
+}
+.wow20 {
+    position: absolute;
+    top: 15%;
+    left: 60%;
+    right: 2%;
+    font-size: 18px;
+    color: #fff;
+    font-family:bolditalic1;
+    font-weight: bold;
+
+}
+.wow21 {
+    position: absolute;
+    top: 20%;
+    left: 60%;
+    right: 2%;
+    font-size: 16px;
+    color: #fff;
+    font-family:bolditalic1;
+    font-weight: bold;
+
+}
+.wow22{
+    position: absolute;
+    top: 50%;
+    left: 2%;   
+    font-size: 22px;
+    color: #fff;
+    font-family:bolditalic1;
+    font-weight: bold;
+
+}
+.wow23 {
+    position: absolute;
+    top: 55%;
+    left: 2%;
+}
+
+.wow24 {
+    position: absolute;
+    top: 8%;
+    left: 40%;
+    font-size: 27px;
+    color: #011518;
+    font-family:bolditalic1;
+    font-weight: bold;
+
+}
+.wow25{
+    position: absolute;
+    top: 50%;
+    left: 2%;   
+    font-size: 22px;
+    color: #011518;
+    font-family:bolditalic1;
+    font-weight: bold;
+
+}
+
+
+
+.ali {
+	background-color: #1A4566;
+	width: 100%;
+	text-align: center;
+
+
+}
+.horda {
+	background-color: #66211A;
+	width: 100%;
+}
+.th {
+	text-align: center;
+	background-color: #66211A;
+	font-family:bold2;
+	font-size: 20px;
+}
+.ta {
+	background-color: #1A4566;
+	text-align: center;
+	font-family:bold2;
+	font-size: 20px;
+}
+.imgh {
+	
+	width: 50px;
+	height: 80px;
+	margin-left: 460px;
+}
+.imga {
+	width: 50px;
+	height: 80px;
+	border-radius:50%;
+	margin-left: 460px;
+}
+.contenedor1{
+	width:985px;
+	margin:00px auto;
+	background-color:#19203B;
+	border: 10px solid #000;
+}
+.tj {
+	font-family:bold2;
+	font-size: 35px;
+}
+.cla {
+	background-color: #333641;
+	width: 100%;
+	text-align: center;
+}
+.tc {
+	background-color: #333641;
+	text-align: center;
+	font-family:bold2;
+	font-size: 24px;
+	margin-top: 10px;
+}
+.tshadonlans {
+	background-color: #66211A;
+	width: 100%;
+}
+.t1 {
+	margin-top: 10px;
+	text-align: center;
+	background-color: #313030;
+
+}
+.t2 {
+	text-align: center;
+	background-color: #313030;
+}
+.t3 {
+	text-align: center;
+	background-color: #313030;
+}
+.shadow{
+	background-color: #313030;
+	width: 100%;
+
+}
+.bas {
+	width: 450px;
+	height: 420px;
+}
+.an{
+	width: 450px;
+	height: 420px;
+
+}
+.mal {
+	width: 450px;
+	height: 420px;
+
+}
+.rev {
+	width: 450px;
+	height: 420px;
+}
+.zonas {
+	text-align: center;
+	color:#B6AFAF;
+
+}
+.videos {
+	color:#fff;
+	margin: 20px;
+	font-family:blackitalic;
+    font-size: 25px;
+}
+.titulo {
+	font-size: 30px;
+	color:#fff;
+	font-family:blackitalic;
+
+}
+
+
+
+
+
+.war0 {
+	position: absolute;
+    top: 5%;
+    right: 75%;
+    font-size: 20px;
+    color:   #000;
+    font-family:medieval;
+
+}
+
+
+.war1 {
+	position: absolute;
+    top: 10%;
+    right: 70%;
+    font-size: 20px;
+    color:   #000;
+    font-family:medieval;
+
+}
+
+.war2 {
+	position: absolute;
+    top: 30%;
+    right: 70%;
+    font-size:20px;
+    color: #000;
+    font-family:medieval;
+
+}
+.war3 {
+	position: absolute;
+    top: 60%;
+    right: 62%;
+}
+
+.war4 {
+	position: absolute;
+    top: 10%;
+    margin: 0px 150px;
+    color: #fff;
+    text-align: center;
+}
+.war5 {
+	
+	position: absolute;
+    top: 45%;
+    right: 70%;
+}
+.war51 {
+	
+	position: absolute;
+    top: 35%;
+    right: 70%;
+    color:#fff ;
+}
+.war6 {
+	
+	position: absolute;
+    top: 45%;
+    right: 37%;
+}
+.war61 {
+	
+	position: absolute;
+    top: 35%;
+    right: 32%;
+    color:#fff;
+}
+.war7 {
+	
+	position: absolute;
+    top: 45%;
+    right: 5%;
+}
+.war71 {
+	
+	position: absolute;
+    top: 35%;
+    right: 7%;
+    color:#fff ;
+}
+
+
+
+
+.wr{
+	background-color: #1A4566;
+	width: 100%;
+	text-align: center;
+
+}
+.wf {
+	background-color: #1A4566;
+	width: 100%;
+	text-align: center;
+
+}
+.tw {
+	background-color: #1A4566;
+	text-align: center;
+	font-family:bold2;
+	font-size: 20px;
+	color: #000;
+}
+
+
+
+.w1 {
+	position: absolute;
+    top: 2%;
+    left: 45%;
+    color: #fff;
+    text-align: center;
+}
+.w2 {
+	position: absolute;
+    top: 7%;
+    margin: 0px 150px;
+    color: #fff;
+    text-align: center;
+}
+.w3 {
+	
+	position: absolute;
+    top: 20%;
+    left: 45%;
+    color:#fff ;
+}
+.w4 {
+	position: absolute;
+    top: 25%;
+    left: 20%;
+    color:#fff;
+}
+.w5 {
+	position: absolute;
+    top: 50%;
+    left: 45%;
+    color:#fff;
+}
+.w6 {
+	position: absolute;
+    top: 55%;
+    margin: 0px 150px;
+    color:#fff;
+}
+.w7 {
+	position: absolute;
+    top: 65%;
+    left: 45%;
+    color:#fff ;
+}
+.w8 {
+	position: absolute;
+    top: 70%;
+    left: 20%;
+    color:#fff;
+}
+.w9 {
+	position: absolute;
+    top: 20%;
+    left: 45%;
+    color:#fff ;
+}
+.w10 {
+	position: absolute;
+    top: 2%;
+    left: 40%;
+    color: #fff;
+    text-align: center;
+}
+.w11 {
+	position: absolute;
+    top: 28%;
+    left: 44%;
+    color:#fff ;
+}
+.w12 {
+	position: absolute;
+    top: 38%;
+    left: 1%;
+    color:#fff;
+}
+.w13 {
+	width: 205px;
+	height:205px;
+	margin: 10px 20px;
+}
+.star1 {
+	position: absolute;
+    top: 10%;
+    right: 45%;
+    font-size: 20px;
+    color:   #000;
+    font-family:medieval;
+
+}
+
+.star2 {
+	position: absolute;
+    top: 30%;
+    right: 45%;
+    font-size:20px;
+    color: #000;
+    font-family:medieval;
+}
+.star3 {
+	position: absolute;
+    top: 60%;
+    right: 50%;
+}
+.star5 {
+	
+	position: absolute;
+    top: 45%;
+    right: 70%;
+    width: 250px;
+    height: 250px;
+}
+.star51 {
+	
+	position: absolute;
+    top: 35%;
+    right: 77%;
+    color:#fff ;
+}
+.star6 {
+	
+	position: absolute;
+    top: 45%;
+    right: 37%;
+    width: 250px;
+    height: 250px;
+}
+.star61 {
+	
+	position: absolute;
+    top: 35%;
+    right: 46%;
+    color:#fff;
+}
+.star7 {
+	
+	position: absolute;
+    top: 45%;
+    right: 5%;
+    width: 250px;
+    height: 250px;
+}
+.star71 {
+	
+	position: absolute;
+    top: 35%;
+    right: 17%;
+    color:#fff ;
+}
+.star8 {
+	position: absolute;
+    top: 30%;
+    left: 5%;
+    color:#fff ;
+    font-size: 20px;
+
+}
+.star8- {
+	position: absolute;
+    top: 4%;
+    left: 45%;
+    color: #fff;
+    text-align: center;
+    font-size: 25px;
+
+}
+.star9 {
+	position: absolute;
+    top: 35%;
+    left: 5%;
+    color:#fff ;
+    font-size: 14px;
+}
+.star10 {
+	position: absolute;
+    top: 37%;
+    left: 5%;
+    color:#fff ;
+    font-size: 14px;
+}
+.star11 {
+	position: absolute;
+    top: 39%;
+    left: 5%;
+    color:#fff ;
+    font-size: 14px;
+}
+.star12 {
+	position: absolute;
+    top: 43%;
+    left: 5%;
+    color:#fff ;
+    font-size: 20px;
+}
+.star13 {
+	position: absolute;
+    top: 47%;
+    left: 5%;
+    color:#fff ;
+    font-size: 14px;
+}
+.star14 {
+	position: absolute;
+    top: 49%;
+    left: 5%;
+    color:#fff ;
+    font-size: 14px;
+}
+.star15 {
+	position: absolute;
+    top: 51%;
+    left: 5%;
+    color:#fff ;
+    font-size: 14px;
+}
+.star16 {
+	position: absolute;
+    top: 55%;
+    left: 5%;
+    color:#fff ;
+    width: 400px;
+    height: 380px;
+}
+.star17 {
+	position: absolute;
+    top: 60%;
+    left: 65%;
+    color:#fff; 
+    font-size: 17px;
+
+}
+.star18 {
+	position: absolute;
+    top: 64%;
+    left: 48%;
+    color:#fff ;
+    font-size: 15px;
+}
+.star133 {
+	position: absolute;
+    top: 47%;
+    left: 5%;
+    color:#fff ;
+    font-size: 12px;
+}
+.star144 {
+	position: absolute;
+    top: 49%;
+    left: 5%;
+    color:#fff ;
+    font-size: 12px;
+}
+.star166 {
+	position: absolute;
+    top: 58%;
+    left: 5%;
+    color:#fff ;
+    width: 350px;
+    height: 240px;
+}
+.stii {
+
+	position: absolute;
+    top: 5%;
+    left: 5%;
+    font-size: 20px;
+    color:   #fff;
+    font-family:medieval;
+}
+.stii1 {
+	position: absolute;
+    top: 12%;
+    right: 52%;
+    font-size: 20px;
+    color:   #fff;
+    font-family:medieval;
+
+}
+
+.stii2 {
+	position: absolute;
+    top: 24%;
+    right: 54%;
+    font-size:20px;
+    color: #fff;
+    font-family:medieval;
+}
+.stii3 {
+	position: absolute;
+    top: 57%;
+    right: 52%;
+}
+.stii4 {
+	position: absolute;
+    top: 40%;
+    right: 54%;
+    font-size:20px;
+    color: #fff;
+    font-family:medieval;
+}
+.stii5  {
+	position: absolute;
+    top: 8%;
+    left: 40%;
+    color: #fff;
+    text-align: center;
+    font-size: 25px;
+    font-family:medieval;
+}
+.stii6  {
+	position: absolute;
+    top: 14%;
+    margin: 0px 150px;
+    color: #fff;
+    text-align: center;
+    font-family:medieval;
+}
+
+.stii7 {
+	
+	position: absolute;
+    top: 35%;
+    right: 75%;
+    color:#fff ;
+    font-family:medieval;
+}
+.stii8 {
+	
+	position: absolute;
+    top: 35%;
+    right: 42%;
+    color:#fff;
+    font-family:medieval;
+}
+.stii9 {
+	
+	position: absolute;
+    top: 35%;
+    right: 8%;
+    color:#fff ;
+    font-family:medieval;
+}
+.stii10 {
+	
+	position: absolute;
+    top: 20%;
+    left: 6%;
+    color:#fff ;
+    font-family:medieval;
+    font-size: 20px;
+}
+.stii11 {
+	
+	position: absolute;
+    top: 20%;
+    left: 42%;
+    color:#fff;
+    font-size: 18px;
+    font-family:medieval;
+    font-size: 20px;
+}
+.stii12 {
+	
+	position: absolute;
+    top: 20%;
+    right: 6%;
+    color:#fff;
+    font-size: 18px;
+    font-family:medieval;
+    font-size: 20px;
+}
+.stii13 {
+	
+	position: absolute;
+    top: 30%;
+    left: 2%;
+    color:#fff ;
+    font-size: 18px;
+    font-family:medieval;
+}
+.stii14 {
+	
+	position: absolute;
+    top: 30%;
+    left: 35%;
+    color:#fff;
+    font-family:medieval;
+}
+.stii15 {
+	
+	position: absolute;
+    top: 30%;
+    right: 2%;
+    color:#fff ;
+    font-family:medieval;
+}
+.stii16 {
+	position: absolute;
+    top: 60%;
+    left: 50%;
+    margin-right: 10px;
+    color:#fff; 
+    font-size: 17px;
+    font-family:medieval;
+}
+.stii17 {
+	position: absolute;
+    top: 0%;
+    left: 35%;
+    color:#fff; 
+    font-size: 25px;
+    font-family:medieval;
+}
+.di {
+
+	position: absolute;
+    top: 2%;
+    left: 30%;
+    font-size: 20px;
+    color:   #fff;
+    font-family:medieval;
+}
+.di1 {
+	position: absolute;
+    top: 25%;
+    right: 70%;
+    font-size: 18px;
+    color:   #fff;
+    font-family:medieval;
+
+}
+.di2 {
+	position: absolute;
+    top: 19%;
+    right: 3%;
+    font-size:20px;
+    color: #fff;
+    font-family:medieval;
+}
+.di3 {
+	position: absolute;
+    top: 70%;
+    right: 38%;
+}
+.di4 {
+	position: absolute;
+    top: 28%;
+    left: 65%;
+    font-size:18px;
+    color: #fff;
+    font-family:medieval;
+}
+.di5{
+	
+	position: absolute;
+    top: 25%;
+    left: 32%;
+    right: 32%;
+    color:#fff;
+    font-size: 18px;
+    font-family:medieval;
+    font-size: 20px;
+}
+.di6  {
+	
+	position: absolute;
+    top: 5%;
+    left: 2%;
+    color:#fff;
+    font-size: 18px;
+    font-family:medieval;
+    font-size: 20px;
+}
+.di7 {
+	
+	position: absolute;
+    top: 5%;
+    right: 2%;
+    color:#fff ;
+    font-family:medieval;
+}
+.di8 {
+	position: absolute;
+    top: 2%;
+    left: 48%;
+    color:#fff ;
+    font-family:medieval;
+}
+.di9 {
+	position: absolute;
+    top: 10%;
+    left: 1%;
+}
+.di10 {
+	position: absolute;
+    top: 78%;
+    left: 1%;
+    right: 75%;
+    color:#fff ;
+    font-size: 14px;
+}
+.di11 {
+	position: absolute;
+    top: 78%;
+    left: 27%;
+    right: 50%;
+    color:#fff ;
+    font-size: 14px;
+}
+.di12 {
+	position: absolute;
+    top: 78%;
+    left: 52%;
+    right: 27%;
+    color:#fff ;
+    font-size: 14px;
+}
+.di13 {
+	position: absolute;
+    top: 78%;
+    left: 76%;
+    right: 1%;
+    color:#fff ;
+    font-size: 14px;
+}
+
+.dii1 {
+	position: absolute;
+    top: 30%;
+    right: 52%;
+    font-size: 20px;
+    color:   #fff;
+    font-family:medieval;
+
+}
+
+.dii2 {
+	position: absolute;
+    top: 55%;
+    right: 54%;
+    font-size:20px;
+    color: #fff;
+    font-family:medieval;
+}
+.dii3 {
+	position: absolute;
+    top: 52%;
+    left: 50%;
+}
+.dii4 {
+	position: absolute;
+    top: 85%;
+    right: 54%;
+    font-size:20px;
+    color: #fff;
+    font-family:medieval;
+}
+.dii5 {
+	color: #983939;
+	font-family:medieval;
+	font-size:20px;
+}
+
+.dii6 {
+	position: absolute;
+    top: 58%;
+    left: 1%;
+    right: 75%;
+    color:#fff ;
+    font-size: 14px;
+}
+.dii7 {
+	position: absolute;
+    top: 58%;
+    left: 27%;
+    right: 50%;
+    color:#fff ;
+    font-size: 14px;
+}
+.dii8 {
+	position: absolute;
+    top: 58%;
+    left: 52%;
+    right: 27%;
+    color:#fff ;
+    font-size: 13px;
+}
+.dii9 {
+	position: absolute;
+    top: 58%;
+    left: 76%;
+    right: 1%;
+    color:#fff ;
+    font-size: 14px;
+}
+.dii10 {
+	position: absolute;
+    top: 2%;
+    left: 48%;
+    color:#fff ;
+    font-family:medieval;
+    color: #983939;
+}
+.dii11 {
+	position: absolute;
+    top: 60%;
+    left: 1%;
+    right: 75%;
+    color:#fff ;
+    font-size: 14px;
+}
+.dii12 {
+	position: absolute;
+    top: 61%;
+    left: 27%;
+    right: 50%;
+    color:#fff ;
+    font-size: 14px;
+}
+.dii13 {
+	position: absolute;
+    top: 60%;
+    left: 52%;
+    right: 27%;
+    color:#fff ;
+    font-size: 14px;
+}
+.dii14 {
+	position: absolute;
+    top: 60%;
+    left: 76%;
+    right: 1%;
+    color:#fff ;
+    font-size: 14px;
+}
+.he0 {
+
+	position: absolute;
+    top: 2%;
+    left: 25%;
+    font-size: 24px;
+    color:   #000;
+    font-family:medieval;
+}
+.he1 {
+	position: absolute;
+    top: 10%;
+    right: 65%;
+    font-size: 18px;
+    color:   #000;
+    font-family:medieval;
+
+}
+.he2 {
+	position: absolute;
+    top: 19%;
+    right: 5%;
+    font-size:22px;
+    color: #000;
+    font-family:medieval;
+}
+.he3 {
+	position: absolute;
+    top: 62%;
+    left: 1%;
+}
+.he4 {
+	position: absolute;
+    top: 28%;
+    left: 65%;
+    font-size:20px;
+    color: #000;
+    font-family:medieval;
+}
+
+.he5 {
+	color: #F50021;
+	font-family:medieval;
+	font-size:20px;
+	font-weight: bold;
+}
+.he51 {
+	color: #F50021;
+	font-family:medieval;
+	font-size:20px;
+	font-weight: bold;
+	right: 1%;
+}
+
+.he6 {
+	position: absolute;
+    top: 18%;
+    left: 1%;
+    right: 75%;
+    color:#fff ;
+    font-size: 17px;
+}
+.he7 {
+	position: absolute;
+    top: 18%;
+    left: 27%;
+    right: 50%;
+    color:#fff ;
+    font-size: 17px;
+}
+.he8 {
+	position: absolute;
+    top: 18%;
+    left: 52%;
+    right: 27%;
+    color:#fff ;
+    font-size: 17px;
+}
+.he9 {
+	position: absolute;
+    top: 18%;
+    left: 76%;
+    right: 1%;
+    color:#fff ;
+    font-size: 17px;
+}
+.he10 {
+	position: absolute;
+    top: 2%;
+    left: 38%;
+    font-family:medieval;
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+}
+.he11 {
+	position: absolute;
+    top: 60%;
+    left: 30%;
+
+}
+
+.he12 {
+	color: #983939;
+	font-family:medieval;
+	font-size:20px;
+	font-weight: bold;
+}
+
+.he13 {
+	position: absolute;
+    top: 68%;
+    left: 1%;
+    right: 75%;
+    color:#fff ;
+    font-size: 14px;
+    font-weight: bold;
+}
+.he14 {
+	position: absolute;
+    top: 68%;
+    left: 27%;
+    right: 50%;
+    color:#fff ;
+    font-size: 14px;
+    font-weight: bold;
+}
+.he15 {
+	position: absolute;
+    top: 68%;
+    left: 52%;
+    right: 27%;
+    color:#fff ;
+    font-size: 14px;
+    font-weight: bold;
+}
+.he16 {
+	position: absolute;
+    top: 68%;
+    left: 76%;
+    right: 1%;
+    color:#fff ;
+    font-size: 14px;
+    font-weight: bold;
+}
+.he17 {
+	width: 155px;
+	height:115px;
+	margin: 5px 40px;
+}
+.he18 {
+	position: absolute;
+    top: 2%;
+    left: 34%;
+
+    color:#983939 ;
+    font-size: 20px;
+    font-weight: bold;
+	
+}
+.ht0 {
+	position: absolute;
+    top: 52%;
+    right: 2%;
+}
+.ht1 {
+	position: absolute;
+    top: 5%;
+    right: 5%;
+    font-size:24px;
+    color: #000;
+    font-family:medieval;
+    font-weight: bold;
+}
+.ht2 {
+	position: absolute;
+    top: 10%;
+    left: 65%;
+    font-size:20px;
+    color: #000;
+    font-family:medieval;
+     font-weight: bold;
+}
+
+.ht3 {
+	
+	position: absolute;
+    top: 25%;
+    right: 85%;
+    color:#fff ;
+    font-family:medieval;
+}
+.ht4{
+	
+	position: absolute;
+    top: 25%;
+    right: 48%;
+    color:#fff;
+    font-family:medieval;
+}
+.ht5 {
+	
+	position: absolute;
+    top: 25%;
+    right: 14%;
+    color:#fff ;
+    font-family:medieval;
+}
+
+.ht6 {
+	
+	position: absolute;
+    top: 30%;
+    right: 75%;
+    left: 2%;
+    color:#fff ;
+    font-family:medieval;
+    font-weight: bold;
+}
+.ht7{
+	
+	position: absolute;
+    top: 30%;
+    right: 40%;
+    left: 38%;
+    color:#fff;
+    font-family:medieval;
+    font-weight: bold;
+}
+.ht8 {
+	
+	position: absolute;
+    top: 30%;
+    right: 8%;
+    left: 75%;
+    color:#fff ;
+    font-family:medieval;
+    font-weight: bold;
+}
+.ht9 {
+	
+	position: absolute;
+    top: 25%;
+    right: 5%;
+    color:#fff ;
+    font-family:medieval;
+}
+.ht10{
+	
+	position: absolute;
+    top: 25%;
+    right: 40%;
+    left: 38%;
+    color:#fff;
+    font-family:medieval;
+    font-weight: bold;
+}
+.ht11 {
+	
+	position: absolute;
+    top: 5%;
+    right: 35%;
+    font-size:24px;
+    color: #000;
+    font-family:medieval;
+    font-weight: bold;
+}
+.ht12 {
+	
+	position: absolute;
+    top: 14%;
+    left: 5%;
+    right: 5%;
+    font-size:24px;
+    color: #000;
+    font-family:medieval;
+    font-weight: bold;
+}
+.ht13{
+	
+	position: absolute;
+    top: 35%;
+    left: 21%;  
+}
+.ht14  {
+	position: absolute;
+    top: 8%;
+    left: 42%;
+    color: #fff;
+    text-align: center;
+    font-size: 25px;
+    font-family:medieval;
+}
+.ht15 {
+	position: absolute;
+    top: 16%;
+    margin: 5px 240px;
+    color: #fff;
+    text-align: center;
+    font-family:medieval;
+}
+.ht16 {
+	
+	position: absolute;
+    top: 35%;
+    left: 5%;
+    color:#fff ;
+    font-family:medieval;
+}
+.ht17{
+	
+	position: absolute;
+    top: 35%;
+    right: 45%;
+    color:#fff;
+    font-family:medieval;
+}
+.ht18 {
+	
+	position: absolute;
+    top: 35%;
+    right: 10%;
+    color:#fff ;
+    font-family:medieval;
+}
+
+.ht19 {
+	
+	position: absolute;
+    top: 45%;
+    right: 75%;
+    left: 2%;
+    color:#fff ;
+    font-family:medieval;
+    font-weight: bold;
+}
+.ht20{
+	
+	position: absolute;
+    top: 45%;
+    right: 40%;
+    left: 32%;
+    color:#fff;
+    font-family:medieval;
+    font-weight: bold;
+}
+.ht21 {
+	
+	position: absolute;
+    top: 45%;
+    right: 8%;
+    left: 75%;
+    color:#fff ;
+    font-family:medieval;
+    font-weight: bold;
+}
+.ht22 {
+	position: absolute;
+    top: 4%;
+    right: 44%;
+    left: 40%;
+    font-family:medieval;
+    font-weight: bold;
+    font-size: 45px;
+
+}
+.ht23 {
+	
+	position: absolute;
+    top: 10%;
+    left: 5%;
+    right: 5%;
+    font-size:24px;
+    color: #000;
+    font-family:medieval;
+    font-weight: bold;
+}
+.ht24{
+	height: 680px;
+	width: 950px;
+	
+	position: absolute;
+    top: 22%;
+    left: 1%;  
+}
+
+.ov1 {
+	position: absolute;
+    top: 5%;
+    left: 34%;
+    font-size:24px;
+    color: #000;
+    font-family:medieval;
+    font-weight: bold;
+}
+.ov2 {
+	position: absolute;
+    top: 10%;
+    left: 3%;
+    font-size:20px;
+    color: #000;
+    font-family:medieval;
+     font-weight: bold;
+}
+.ov3 {
+	position: absolute;
+    top: 19%;
+    left: 32%;
+  
+}
+
+.ov4  {
+	position: absolute;
+    top: 8%;
+    left: 38%;
+    color: #071F51;
+    text-align: center;
+    font-size: 25px;
+    font-family:medieval;
+    font-weight: bold;
+}
+.ov5 {
+	position: absolute;
+    top: 16%;
+    margin: 5px 240px;
+    color: #071F51;
+    text-align: center;
+    font-family:medieval;
+    font-size: 17px;
+    font-weight: bold;
+}
+.ov6 {
+	
+	position: absolute;
+    top: 35%;
+    left: 5%;
+    color:#071F51 ;
+    font-family:medieval;
+    font-weight: bold;
+    font-size: 18px;
+}
+.ov7{
+	
+	position: absolute;
+    top: 35%;
+    right: 50%;
+    color:#071F51;
+    font-family:medieval;
+    font-weight: bold;
+    font-size: 18px;
+}
+.ov8 {
+	
+	position: absolute;
+    top: 35%;
+    right: 14%;
+    color:#071F51 ;
+    font-family:medieval;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.ov9 {
+	
+	position: absolute;
+    top: 45%;
+    right: 75%;
+    left: 2%;
+    color:#071F51 ;
+    font-family:medieval;
+    font-weight: bold;
+}
+.ov10{
+	
+	position: absolute;
+    top: 45%;
+    right: 40%;
+    left: 32%;
+    color:#071F51;
+    font-family:medieval;
+    font-weight: bold;
+}
+.ov11 {
+	
+	position: absolute;
+    top: 45%;
+    right: 2%;
+    left: 70%;
+    color:#071F51;
+    font-family:medieval;
+    font-weight: bold;
+}
+.ov12 {
+	position: absolute;
+    top: 10%;
+    left: 37%;
+    font-size:24px;
+    color: #fff;
+    font-family:medieval;
+    font-weight: bold;
+
+}
+.ov13 {
+	
+	position: absolute;
+    top: 45%;
+    right: 10%;
+    left: 68%;
+    color:#fff ;
+    font-family:medieval;
+    font-weight: bold;
+}
+.ov14 {
+	position: absolute;
+    top: 5%;
+    left: 37%;
+    font-size:28px;
+    color: #000;
+    font-family:medieval;
+    font-weight: bold;
+
+}
+.wc1 {
+	position: absolute;
+    top: 5%;
+    left: 2%;
+    font-size:24px;
+    color: #fff;
+    font-family:medieval;
+    font-weight: bold;
+}
+.wc2 {
+	position: absolute;
+    top: 14%;
+    left: 2%;
+    right: 55%;
+    font-size:20px;
+    color: #fff;
+    font-family:medieval;
+     font-weight: bold;
+}
+.wc3 {
+	position: absolute;
+    top: 55%;
+    left: 2%; 
+}
+.wc4 {
+	position: absolute;
+    top: 5%;
+    left: 30%;
+    font-size:24px;
+    color: #85988D;
+    font-family:medieval;
+    font-weight: bold;
+}
+.wc5 {
+	
+	position: absolute;
+    top: 20%;
+    left: 5%;
+    color:#1A3926 ;
+    font-family:medieval;
+    font-size:20px;
+}
+.wc6{
+	
+	position: absolute;
+    top: 20%;
+    right: 47%;
+    color:#1A3926;
+    font-family:medieval;
+    font-weight: bold;
+    font-size:20px;
+}
+.wc7{
+	
+	position: absolute;
+    top: 20%;
+    right: 3%;
+    color:#1A3926 ;
+    font-family:medieval;
+    font-weight: bold;
+    font-size:20px;
+}
+
+.wc8 {
+	
+	position: absolute;
+    top: 27%;
+    right: 75%;
+    left: 2%;
+    color:#739480 ;
+    font-family:medieval;
+    
+}
+.wc9{
+	
+	position: absolute;
+    top: 27%;
+    right: 40%;
+    left: 30%;
+    color:#739480;
+    font-family:medieval;
+    
+}
+.wc10 {
+	
+	position: absolute;
+    top: 27%;
+    right: 4%;
+    left: 70%;
+    color:#739480 ;
+    font-family:medieval;
+    
+}
+
+.wc11 {
+	
+	position: absolute;
+    top: 16%;
+    left: 9%;
+    color:#fff ;
+    font-family:medieval;
+    font-size: 20px;
+}
+.wc12{
+	
+	position: absolute;
+    top: 20%;
+    right: 70%;
+    left: 2%;
+    color:#fff ;
+    font-family:medieval;
+    font-weight: bold;
+}
+.wc13{
+	
+	position: absolute;
+    top: 20%;
+    right: 40%;
+    left: 38%;
+    color:#fff;
+    font-family:medieval;
+    font-weight: bold;
+}
+.wc14 {
+	
+	position: absolute;
+    top: 20%;
+    right: 1%;
+    left: 70%;
+    color:#fff ;
+    font-family:medieval;
+    font-weight: bold;
+}
+.wc15 {
+	
+	position: absolute;
+    top: 16%;
+    right: 12%;
+    color:#fff ;
+    font-family:medieval;
+    font-size: 20px;
+}
+.wc16{
+	
+	position: absolute;
+    top: 16%;
+    right: 40%;
+    left: 38%;
+    color:#fff;
+    font-family:medieval;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.wc17 {
+	
+	position: absolute;
+    top: 52%;
+    left: 2%;
+    width: 250px;
+    height: 250px;
+}
+.wc18 {
+	
+	position: absolute;
+    top: 52%;
+    right: 37%;
+    width: 250px;
+    height: 250px;
+}
+.wc19 {
+	
+	position: absolute;
+    top: 52%;
+    right: 5%;
+    width: 250px;
+    height: 250px;
+}
+.wc20  {
+	position: absolute;
+    top: 3%;
+    left: 45%;
+    color: #fff;
+    text-align: center;
+    font-size: 30px;
+    font-family:medieval;
+}
+.wc21 {
+	position: absolute;
+    top: 5%;
+    left: 30%;
+    font-size:28px;
+    color: #fff;
+    font-family:medieval;
+    font-weight: bold;
+
+}
+.wc22 {
+	
+	position: absolute;
+    top: 10%;
+    left: 5%;
+    right: 5%;
+    font-size:24px;
+    color: #fff;
+    font-family:medieval;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
